@@ -1,6 +1,11 @@
 @import url(reset.css);
 @import url(header.css);
+@import url(banner.css);
 :root{
 --azul-degrade:linear-gradient(98deg, #002F52 35.49%, #326589 165.37%);
-
+--fonte-principal:"Poppins";
+--branco:#FFFFFF;
+}
+body{
+    font-family: var(--fonte-principal);
 }

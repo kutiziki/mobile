@@ -1,4 +1,11 @@
 .banner{
-background-color: --cor;
+background:var(--azul-degrade);
+text-align: center;
+color:var(--branco);
+padding: 2.5em 2em; 
 
+}
+.banner_titulo{
+    font-size:  18px; 
+font-weight: 700;
 }
