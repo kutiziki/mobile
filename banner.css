@@ -26,7 +26,7 @@ padding: 2.5em 2em;
     font-size: 14px;
     font-size: var(--branco);
     font-family: var(--fonte-principal);
-    background: url("../Mobileyeah/Pesquisa.svg");
+    background: url("../Mobileyeah/Pesquisa.svg")no-repeat;
     background-position: 1em;
     font-weight: 400;
 }
